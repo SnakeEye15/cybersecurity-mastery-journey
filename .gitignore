@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# VM Images
+*.ova
+*.ovf
+*.vmdk
+*.vdi
+*.qcow2
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Logs
+*.log
+
+# Local private workspace
+private/
+evidence/
